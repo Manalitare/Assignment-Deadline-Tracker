@@ -1,0 +1,195 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1605 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+(ASSIGNMENT DEADLINE TRACKER) Tj
+0 -17 Td
+(TEACHER REPORT) Tj
+0 -17 Td
+(User: teacher) Tj
+0 -17 Td
+(Generated: 2026-09-29 20:24:36) Tj
+0 -17 Td
+(-----------------------------------------------) Tj
+0 -17 Td
+(SUMMARY) Tj
+0 -17 Td
+(Total Assignments : 6) Tj
+0 -17 Td
+(Pending           : 3) Tj
+0 -17 Td
+(In Progress       : 0) Tj
+0 -17 Td
+(Completed         : 3) Tj
+0 -17 Td
+(High Priority     : 4) Tj
+0 -17 Td
+(Medium Priority   : 2) Tj
+0 -17 Td
+(Low Priority      : 0) Tj
+0 -17 Td
+(Overdue           : 0) Tj
+0 -17 Td
+(Due Today         : 0) Tj
+0 -17 Td
+(Due Soon          : 1) Tj
+0 -17 Td
+(Upcoming          : 2) Tj
+0 -17 Td
+(-----------------------------------------------) Tj
+0 -17 Td
+(ASSIGNMENT DETAILS) Tj
+0 -17 Td
+(ID: 101) Tj
+0 -17 Td
+(Subject: Cloud Computing) Tj
+0 -17 Td
+(Title: AWS Cloud Models) Tj
+0 -17 Td
+(Description: Prepare notes on IaaS, PaaS and SaaS) Tj
+0 -17 Td
+(Deadline: 2026-10-05) Tj
+0 -17 Td
+(Priority: High) Tj
+0 -17 Td
+(Status: Pending) Tj
+0 -17 Td
+(Deadline Status: DUE SOON) Tj
+0 -17 Td
+(-----------------------------------------------) Tj
+0 -17 Td
+(ID: 102) Tj
+0 -17 Td
+(Subject: cloud) Tj
+0 -17 Td
+(Title: ccd) Tj
+0 -17 Td
+(Description: cloud computing) Tj
+0 -17 Td
+(Deadline: 2027-01-01) Tj
+0 -17 Td
+(Priority: High) Tj
+0 -17 Td
+(Status: Completed) Tj
+0 -17 Td
+(Deadline Status: COMPLETED) Tj
+0 -17 Td
+(-----------------------------------------------) Tj
+0 -17 Td
+(ID: 103) Tj
+0 -17 Td
+(Subject: aiml) Tj
+0 -17 Td
+(Title: machine learning) Tj
+0 -17 Td
+(Description: machine learning is subset of ai) Tj
+0 -17 Td
+(Deadline: 2026-10-23) Tj
+0 -17 Td
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 1170 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+(Priority: High) Tj
+0 -17 Td
+(Status: Completed) Tj
+0 -17 Td
+(Deadline Status: COMPLETED) Tj
+0 -17 Td
+(-----------------------------------------------) Tj
+0 -17 Td
+(ID: 104) Tj
+0 -17 Td
+(Subject: c++) Tj
+0 -17 Td
+(Title: file handling) Tj
+0 -17 Td
+(Description: file handling is used to manage files read and write data) Tj
+0 -17 Td
+(Deadline: 2026-10-24) Tj
+0 -17 Td
+(Priority: Medium) Tj
+0 -17 Td
+(Status: Pending) Tj
+0 -17 Td
+(Deadline Status: UPCOMING) Tj
+0 -17 Td
+(-----------------------------------------------) Tj
+0 -17 Td
+(ID: 105) Tj
+0 -17 Td
+(Subject: m) Tj
+0 -17 Td
+(Title: d) Tj
+0 -17 Td
+(Description: s) Tj
+0 -17 Td
+(Deadline: 2027-09-09) Tj
+0 -17 Td
+(Priority: Medium) Tj
+0 -17 Td
+(Status: Completed) Tj
+0 -17 Td
+(Deadline Status: COMPLETED) Tj
+0 -17 Td
+(-----------------------------------------------) Tj
+0 -17 Td
+(ID: 106) Tj
+0 -17 Td
+(Subject: dbms) Tj
+0 -17 Td
+(Title: database) Tj
+0 -17 Td
+(Description: sql/mysql) Tj
+0 -17 Td
+(Deadline: 2026-12-07) Tj
+0 -17 Td
+(Priority: High) Tj
+0 -17 Td
+(Status: Pending) Tj
+0 -17 Td
+(Deadline Status: UPCOMING) Tj
+0 -17 Td
+(-----------------------------------------------) Tj
+0 -17 Td
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000122 00000 n 
+0000000192 00000 n 
+0000000318 00000 n 
+0000001974 00000 n 
+0000002100 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+3321
+%%EOF

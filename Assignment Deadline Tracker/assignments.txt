@@ -1,0 +1,6 @@
+101|1|Cloud Computing|AWS Cloud Models|Prepare notes on IaaS, PaaS and SaaS|2026-10-05|High
+102|2|cloud|ccd|cloud computing|2027-01-01|High
+103|2|aiml|machine learning|machine learning is subset of ai|2026-10-23|High
+104|2|c++|file handling|file handling is used to manage files read and write data|2026-10-24|Medium
+105|3|m|d|s|2027-09-09|Medium
+106|0|dbms|database|sql/mysql|2026-12-07|High

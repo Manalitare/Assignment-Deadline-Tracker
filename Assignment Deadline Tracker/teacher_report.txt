@@ -1,0 +1,73 @@
+ASSIGNMENT DEADLINE TRACKER
+TEACHER REPORT
+User: teacher
+Generated: 2026-09-29 20:21:09
+-----------------------------------------------
+SUMMARY
+Total Assignments : 6
+Pending           : 3
+In Progress       : 0
+Completed         : 3
+High Priority     : 4
+Medium Priority   : 2
+Low Priority      : 0
+Overdue           : 0
+Due Today         : 0
+Due Soon          : 1
+Upcoming          : 2
+-----------------------------------------------
+ASSIGNMENT DETAILS
+ID: 101
+Subject: Cloud Computing
+Title: AWS Cloud Models
+Description: Prepare notes on IaaS, PaaS and SaaS
+Deadline: 2026-10-05
+Priority: High
+Status: Pending
+Deadline Status: DUE SOON
+-----------------------------------------------
+ID: 102
+Subject: cloud
+Title: ccd
+Description: cloud computing
+Deadline: 2027-01-01
+Priority: High
+Status: Completed
+Deadline Status: COMPLETED
+-----------------------------------------------
+ID: 103
+Subject: aiml
+Title: machine learning
+Description: machine learning is subset of ai
+Deadline: 2026-10-23
+Priority: High
+Status: Completed
+Deadline Status: COMPLETED
+-----------------------------------------------
+ID: 104
+Subject: c++
+Title: file handling
+Description: file handling is used to manage files read and write data
+Deadline: 2026-10-24
+Priority: Medium
+Status: Pending
+Deadline Status: UPCOMING
+-----------------------------------------------
+ID: 105
+Subject: m
+Title: d
+Description: s
+Deadline: 2027-09-09
+Priority: Medium
+Status: Completed
+Deadline Status: COMPLETED
+-----------------------------------------------
+ID: 106
+Subject: dbms
+Title: database
+Description: sql/mysql
+Deadline: 2026-12-07
+Priority: High
+Status: Pending
+Deadline Status: UPCOMING
+-----------------------------------------------

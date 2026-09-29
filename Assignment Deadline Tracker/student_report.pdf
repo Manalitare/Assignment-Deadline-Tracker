@@ -1,0 +1,91 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1044 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+(ASSIGNMENT DEADLINE TRACKER) Tj
+0 -17 Td
+(STUDENT REPORT) Tj
+0 -17 Td
+(User: manali) Tj
+0 -17 Td
+(Generated: 2026-09-29 20:25:32) Tj
+0 -17 Td
+(-----------------------------------------------) Tj
+0 -17 Td
+(SUMMARY) Tj
+0 -17 Td
+(Total Assignments : 1) Tj
+0 -17 Td
+(Pending           : 0) Tj
+0 -17 Td
+(In Progress       : 0) Tj
+0 -17 Td
+(Completed         : 1) Tj
+0 -17 Td
+(High Priority     : 0) Tj
+0 -17 Td
+(Medium Priority   : 1) Tj
+0 -17 Td
+(Low Priority      : 0) Tj
+0 -17 Td
+(Overdue           : 0) Tj
+0 -17 Td
+(Due Today         : 0) Tj
+0 -17 Td
+(Due Soon          : 0) Tj
+0 -17 Td
+(Upcoming          : 0) Tj
+0 -17 Td
+(-----------------------------------------------) Tj
+0 -17 Td
+(ASSIGNMENT DETAILS) Tj
+0 -17 Td
+(ID: 105) Tj
+0 -17 Td
+(Subject: m) Tj
+0 -17 Td
+(Title: d) Tj
+0 -17 Td
+(Description: s) Tj
+0 -17 Td
+(Deadline: 2027-09-09) Tj
+0 -17 Td
+(Priority: Medium) Tj
+0 -17 Td
+(Status: Completed) Tj
+0 -17 Td
+(Deadline Status: COMPLETED) Tj
+0 -17 Td
+(-----------------------------------------------) Tj
+0 -17 Td
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000116 00000 n 
+0000000186 00000 n 
+0000000312 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1407
+%%EOF

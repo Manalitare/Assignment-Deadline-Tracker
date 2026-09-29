@@ -1,0 +1,63 @@
+ASSIGNMENT DEADLINE TRACKER - PROJECT REPORT
+============================================
+
+1. INTRODUCTION
+The Assignment Deadline Tracker is a console-based C++ application developed to help students manage assignments, deadlines, priorities, and completion status in an organized way.
+
+2. OBJECTIVES
+- Store student/user information using file handling.
+- Allow users to register and log in.
+- Add, view, search, filter, update, and delete assignments.
+- Track assignment deadlines and identify overdue or upcoming work.
+- Display assignment statistics through a dashboard.
+- Generate text and PDF reports.
+
+3. TECHNOLOGIES USED
+- Programming Language: C++
+- IDE/Editor: Visual Studio Code
+- Compiler: G++ / MSYS2 UCRT64
+- Storage: Text files
+- PDF Generation: Custom PDF generation using C++ file handling
+
+4. MAIN FEATURES
+1. User Registration
+2. User Login
+3. Add Assignment
+4. View Assignments
+5. Search Assignment
+6. Filter by Priority
+7. Filter by Status
+8. Update Assignment Status
+9. Delete Assignment
+10. Deadline Tracking
+11. Dashboard and Statistics
+12. Generate report.txt
+13. Generate report.pdf
+14. Generate project_report.txt
+
+5. DATA STRUCTURES
+The project uses User and Assignment structures to store application data.
+Vectors are used to manage collections of users, assignments, and statuses.
+
+6. FILE HANDLING
+users.txt       - Stores registered user information.
+assignments.txt - Stores assignment information.
+status.txt      - Stores assignment status information.
+report.txt      - Stores the generated assignment report.
+report.pdf      - Stores the generated PDF assignment report.
+
+7. WORKING OF THE SYSTEM
+The user first registers or logs in. After login, the user can manage assignments through the menu. Assignment information is saved in text files, so the data remains available after restarting the program. Deadline status is calculated from the assignment deadline and current date.
+
+8. TESTING
+The system should be tested for registration, login, assignment creation, searching, filtering, status updates, deletion, deadline tracking, dashboard statistics, and report generation.
+
+9. CONCLUSION
+The Assignment Deadline Tracker provides a simple and practical way for students to organize academic assignments and monitor deadlines. The project demonstrates C++ structures, vectors, functions, loops, conditional statements, file handling, date calculations, and report generation.
+
+10. FUTURE SCOPE
+- Graphical user interface.
+- Database integration.
+- Email or notification reminders.
+- Mobile or web version.
+- Cloud data synchronization.

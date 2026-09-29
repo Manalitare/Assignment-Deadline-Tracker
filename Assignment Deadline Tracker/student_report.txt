@@ -1,0 +1,28 @@
+ASSIGNMENT DEADLINE TRACKER
+STUDENT REPORT
+User: manali
+Generated: 2026-09-29 20:25:29
+-----------------------------------------------
+SUMMARY
+Total Assignments : 1
+Pending           : 0
+In Progress       : 0
+Completed         : 1
+High Priority     : 0
+Medium Priority   : 1
+Low Priority      : 0
+Overdue           : 0
+Due Today         : 0
+Due Soon          : 0
+Upcoming          : 0
+-----------------------------------------------
+ASSIGNMENT DETAILS
+ID: 105
+Subject: m
+Title: d
+Description: s
+Deadline: 2027-09-09
+Priority: Medium
+Status: Completed
+Deadline Status: COMPLETED
+-----------------------------------------------

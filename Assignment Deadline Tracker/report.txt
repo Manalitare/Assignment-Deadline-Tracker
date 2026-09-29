@@ -1,0 +1,48 @@
+ASSIGNMENT DEADLINE TRACKER
+===========================
+Student/User : mohit
+Generated    : 29-09-2026 17:34
+
+ASSIGNMENT SUMMARY
+-------------------
+Total Assignments : 2
+Pending           : 0
+In Progress       : 0
+Completed         : 2
+
+PRIORITY SUMMARY
+-----------------
+High Priority     : 2
+Medium Priority   : 0
+Low Priority      : 0
+
+DEADLINE SUMMARY
+----------------
+Overdue           : 0
+Due Today         : 0
+Due Soon          : 0
+Upcoming          : 0
+
+ASSIGNMENT DETAILS
+------------------
+
+Assignment ID : 102
+Subject       : cloud
+Title         : ccd
+Description   : cloud computing
+Deadline      : 2027-01-01
+Priority      : High
+Status        : Completed
+Deadline State: COMPLETED
+
+Assignment ID : 103
+Subject       : aiml
+Title         : machine learning
+Description   : machine learning is subset of ai
+Deadline      : 2026-10-23
+Priority      : High
+Status        : Completed
+Deadline State: COMPLETED
+
+===========================
+End of Assignment Report
